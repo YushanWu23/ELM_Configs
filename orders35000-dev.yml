@@ -13,4 +13,4 @@ eureka:
     service-url:
       defaultZone: "http://eureka28000:28000/eureka/,http://eureka28001:28001/eureka/"
 
-protectSignal: true
+protectSignal: false
